@@ -45,7 +45,7 @@ L’application vise à :
 
 - **Frontend** : HTML, CSS, Bootstrap
 - **Backend** : PHP avec PDO
-- **Base de données** : MySQL
+- **Base de données** : SQL |Mysql
 
 ---
 
@@ -60,7 +60,7 @@ L’application vise à :
 - **Protection CSRF** : Jetons CSRF dans les formulaires critiques
 - **Échappement des données** : `htmlspecialchars()` pour éviter les attaques XSS
 - **Validation des entrées** côté serveur
-- **Requêtes préparées (PDO ou MySQLi)** contre les injections SQL
+- **Requêtes préparées (PDO)** contre les injections SQL
 - **Gestion sécurisée des sessions**
 - **Contrôle d’accès par rôle (admin, moniteur, client)**
 
@@ -74,6 +74,11 @@ L’application vise à :
 - Planification des séances avec affectation de véhicule et moniteur
 - Gestion du carburant par séance 
 - Interface responsive adaptée à tous les appareils
+
+
+
+
+
 
 <div align="center">
   <p>© 2025 OB_gestion. Tous droits réservés.</p>
